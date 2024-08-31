@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there!
+
+- 🔭 I’m currently working on my Master's Thesis on IoT and OT integration
+- 🌱 I’m currently learning MicroPython (but I've also know C)
+- 📫 How to reach me: crissmilego@gmail.com
+- ⚡ Fun fact: One of the things that helped me learn English was watching Jacksepticeye videos!
 
 <!--
 **crismide/crismide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
