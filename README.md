@@ -1,4 +1,4 @@
-## Hello there!
+## Hello, Hej, Hola!
 
 - 🔭 I’m currently working on my Master's Thesis on IoT and OT integration
 - 🌱 I’m currently learning MicroPython (but I've also know C)
