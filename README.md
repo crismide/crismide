@@ -1,9 +1,9 @@
 ## Hello, Hej, Hola!
 
-- 🔭 I’m currently working on my Master's Thesis on IoT and OT integration
-- 🌱 I’m currently learning MicroPython (I already knew C)
+- 🔭 I’m currently working on creating an app for the website that I created that stores creative processes in dance
+- 🌱 I’m currently learning React
 - 📫 How to reach me: crissmilego@gmail.com
-- ⚡ Fun fact: In November, I'll make my one year streak of Duolingo (learning Swedish so far)
+- ⚡ Fun fact: In November, I'll make my one ye-r streak of Duolingo (learning Swedish so far)
 
 <!--
 **crismide/crismide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
