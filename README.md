@@ -1,7 +1,7 @@
 ## Hello, Hej, Hola!
 
 - 🔭 I’m currently working on creating an app for the website that I created that stores creative processes in dance
-- 🌱 I’m currently learning React
+- 🌱 I’m currently refreshing my memory of Django
 - 📫 How to reach me: crissmilego@gmail.com
 
 <!--
